@@ -1,0 +1,67 @@
+# Arbeloa Out — Generative Engine Optimization Map
+
+> A sports voting campaign website called 'Arbeloa Out' where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes. It is inspired by a similar existing site (mbappeout.replit.app) and should replicate its functionality and design style — a bold, fan-driven protest campaign page focused on engagement and virality.
+
+---
+
+## Pages
+
+### Home
+https://arbeloa-out-45b3f881.zappy5.app
+A sports voting campaign website called &#39;Arbeloa Out&#39; where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes.
+
+## Legal & Policy
+
+### Privacy Policy
+https://arbeloa-out-45b3f881.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://arbeloa-out-45b3f881.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://arbeloa-out-45b3f881.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://arbeloa-out-45b3f881.zappy5.app
+- Endpoint: https://arbeloa-out-45b3f881.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Arbeloa Out
+A sports voting campaign website called 'Arbeloa Out' where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes. It is inspired by a similar existing site (mbappeout.replit.app) and should replicate its functionality and design style — a bold, fan-driven protest campaign page focused on engagement and virality.
+
+## Target Audience
+- אוהדי כדורגל שרוצים להצביע להעיף את ארבלואה
+- Football Fanatics
+- Real-Time Voters
+- Discontent Fans
+
+## Industry
+ספורט / כדורגל
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://arbeloa-out-45b3f881.zappy5.app/sitemap.xml
+- Robots: https://arbeloa-out-45b3f881.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://arbeloa-out-45b3f881.zappy5.app/llms-full.txt
