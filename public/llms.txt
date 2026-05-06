@@ -7,21 +7,21 @@
 ## Pages
 
 ### Home
-https://example.com
+https://arbeloa-out.zappy5.app
 A sports voting campaign website called &#39;Arbeloa Out&#39; where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://arbeloa-out.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://arbeloa-out.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://arbeloa-out.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,6 +50,6 @@ A sports voting campaign website called 'Arbeloa Out' where fans can vote to rem
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://arbeloa-out.zappy5.app/sitemap.xml
+- Robots: https://arbeloa-out.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://arbeloa-out.zappy5.app/llms-full.txt

@@ -2,13 +2,13 @@
 
 A sports voting campaign website called 'Arbeloa Out' where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes. It is inspired by a similar existing site (mbappeout.replit.app) and should replicate its functionality and design style — a bold, fan-driven protest campaign page focused on engagement and virality.
 
-Source: https://example.com
+Source: https://arbeloa-out.zappy5.app
 
 ---
 
 ## ספורט / כדורגל — Arbeloa Out
 
-URL: https://example.com
+URL: https://arbeloa-out.zappy5.app
 Description: A sports voting campaign website called &#39;Arbeloa Out&#39; where fans can vote to remove Arbeloa. The site features a real-time vote counter with a goal of 20 votes.
 
 ספורט / כדורגל — Arbeloa Out
@@ -247,7 +247,7 @@ The campaign to end an era. Every vote counts. Make your voice heard on the pitc
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://arbeloa-out.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -438,7 +438,7 @@ The campaign to end an era. Every vote counts. Make your voice heard on the pitc
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://arbeloa-out.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -635,7 +635,7 @@ The campaign to end an era. Every vote counts. Make your voice heard on the pitc
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://arbeloa-out.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
